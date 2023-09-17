@@ -1,0 +1,2 @@
+Readmes for starting the client/server are included in their individual directories  
+There is a function in the server `calculateWinningCombos` which can dynamically generate the indices that correspond to the grid rows/columns/diagonals
